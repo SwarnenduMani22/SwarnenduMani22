@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Swarnendu+Mani;Software+Engineer+%26+Full+Stack+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
-  
-  <p align="center">
-    <strong>Software Engineer • Full Stack Developer • Backend & Python Developer</strong>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Swarnendu+Mani;Building+Modern+Web+Applications" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/swar9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -18,13 +14,12 @@
 
 ## 📌 Introduction
 
-I am a Computer Science graduate and Software Engineer passionate about developing modern web applications, secure REST APIs, and scalable backend systems. My core strengths lie in full-stack JavaScript and Python development.
+I am a Computer Science graduate and Software Engineer passionate about developing modern web applications, secure REST APIs, and backend systems. My core strengths lie in full-stack development.
 
-While my primary focus is on building robust software, I am also actively exploring Artificial Intelligence by experimenting with Retrieval-Augmented Generation (RAG) pipelines.
+I am also actively exploring Artificial Intelligence by experimenting with Retrieval-Augmented Generation (RAG) pipelines.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering
 - 📍 **Location:** West Bengal, India
-- 🎯 **Target Roles:** Software Engineer | Full Stack Developer | Backend Developer | Python Developer
 
 <br/>
 
@@ -126,34 +121,8 @@ While my primary focus is on building robust software, I am also actively explor
 
 ## 🌱 Currently Learning
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🌱 Currently Learning</h3>
-      <ul>
-        <li><strong>System Design & Backend Fundamentals:</strong> Studying API design patterns, caching strategies, and database indexing techniques.</li>
-        <li><strong>RAG Pipeline Optimization:</strong> Experimenting with chunking strategies, vector index tuning, and prompt techniques.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### 🤖 Currently Exploring
-
-- Retrieval-Augmented Generation (RAG)
-- FAISS Vector Search
-- BM25
-- Ollama
-
-<br/>
-
----
-
-## 🤝 Open Source & Collaboration
-
-I enjoy collaborating on software projects and continuously learning from the developer community:
-- 💡 **Open Source:** Interested in contributing to open-source web applications, backend projects, and Python-based tools.
-- 💬 **Tech Discussions:** Open to discussing software engineering, backend development, REST API design, and modern web development.
+- **System Design & Backend Fundamentals:** Studying API design patterns, caching strategies, and database indexing techniques.
+- **RAG Pipeline Optimization:** Experimenting with chunking strategies, vector index tuning, and prompt techniques.
 
 <br/>
 
@@ -162,19 +131,13 @@ I enjoy collaborating on software projects and continuously learning from the de
 ## 📫 Connect With Me
 
 <div align="center">
-
-<a href="https://linkedin.com/in/swar9">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:maswarnendu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/SwarnenduMani22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-> *"Talk is cheap. Show me the code." - Linus Torvalds*
-
+  <a href="https://linkedin.com/in/swar9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maswarnendu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SwarnenduMani22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
