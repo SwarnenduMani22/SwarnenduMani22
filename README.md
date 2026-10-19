@@ -46,20 +46,6 @@ I am also actively exploring Artificial Intelligence by experimenting with Retri
   </a>
 </p>
 
-### Frontend Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" alt="Frontend Stack" />
-  </a>
-</p>
-
-### Backend & Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" alt="Backend and DB Stack" />
-  </a>
-</p>
-
 ### Tools & Workflow
 <p align="center">
   <a href="https://skillicons.dev">
@@ -129,7 +115,6 @@ I am also actively exploring Artificial Intelligence by experimenting with Retri
 ---
 
 ## 📫 Connect With Me
-
 <div align="center">
   <a href="https://linkedin.com/in/swar9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
